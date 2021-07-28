@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vibhashdhar
 - 👀 I’m interested in Data & BI
-- 🌱 I’m currently learning Neural Networks using Pythin and TensorFlow
+- 🌱 I’m currently learning Neural Networks using Python and TensorFlow
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me dharvo@mail.uc.edu
 
